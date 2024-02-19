@@ -1,4 +1,5 @@
-< h1  align = " center " >Olá, sou Gabriella Bazoni< 
+<h1  align = " center " >Olá, sou Gabriella Bazoni</h1>
+
 
 - 🌱 Atualmente estudando HTML, CSS e JavaScript
 

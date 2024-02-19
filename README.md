@@ -1,4 +1,4 @@
-## Olá!! Eu sou Gabriella Bazoni 👋
+< h1  align = " center " >Olá, sou Gabriella Bazoni < img  src = " https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif "  width = " 35 " ></ h1 >
 
 - 🌱 Atualmente estudando HTML, CSS e JavaScript
 
@@ -12,6 +12,5 @@
 
 <div> 
   <a href="https://www.linkedin.com/in/gabriellabazonidev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://www.instagram.com/gabriellabazoni/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="mailto:gabriellabazonidev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
